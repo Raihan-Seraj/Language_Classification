@@ -1,0 +1,11 @@
+The data is taken from the dialogues gathered for project one. Each row of training data represents up to the first 10 words of an utterance, stripped of special characters and accents.
+
+For this task, the class labels are as follows: {0: Slovak, 1: French, 2: Spanish, 3: German, 4: Polish}
+
+There are 276 517 training examples, and 118 508 testing examples.
+
+
+train_set_x.csv - the training set data
+train_set_y.csv - the training set labels
+test_set_x.csv - the test set data
+random_baseline.csv - a sample submission file in the correct format
